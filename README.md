@@ -9,3 +9,5 @@
 06/03 Completed Menu, Tabs, Slider Apps.
 
 06/07 Completed Lorem Generator, Colour Generator, and Grocery Apps today. The latter was the most complex and I learned a lot about the process of building a React app. Previously, my perception was that I really needed to have my components and states planned out before coding, however, this project and style of teaching highlighted the thought process behind each component and how to fluidly build and bring pieces together. Also slight set back in my coding these last few days since I had to get stitches.
+
+06/11 Completed 10hr tutorial covering useState, useEffect, useRef, useReducer, useContext, custom hooks, react router, PropTypes, short circuit evaluation, ternary operators and more.
