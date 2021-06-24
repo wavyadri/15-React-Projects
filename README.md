@@ -12,4 +12,4 @@
 
 06/11 Completed 10hr tutorial covering useState, useEffect, useRef, useReducer, useContext, custom hooks, react router, PropTypes, short circuit evaluation, ternary operators and more.
 
-06/13 Course completed. 10hr course + 9hr tutorial. I have completed a few side projects throughout this time and will now being my own SPA using the concepts covered in this course.
+06/13 Course completed. 10hr course + 9hr tutorial. I have completed a few side projects throughout this time and will now build my own SPA using the concepts covered in this course.
